@@ -1,16 +1,19 @@
 Week 1
 	Read: 1.1
 	Ex: p.9 {1,2,3,4,5,6,7,8,9}(4h)
-	Notes:
-	   Couple of interesting points on last part of 1.1 (section where Knuth is talking about computation method)
-	   http://cs.stackexchange.com/questions/1666/please-explain-this-formal-definition-of-computation
-	
+
 Real progress:
 	Read: 100% (30 mins)
 	Ex: +1 (3m), +2 (5m), +3 (10m), +4 (10m), +6 (15m)
 	    +7 on meeting (30m)
 	    -5 moved to next week
 	    -9 - optional
+
+Notes:
+	- Couple of interesting points on last part of 1.1 (section where Knuth is talking about computation method)
+	   http://cs.stackexchange.com/questions/1666/please-explain-this-formal-definition-of-computation
+	- Compare Markov, Turing computational methods
+	- Work out other examples (similar to ex 7) using computational method form 1.1
 
 Week 2
 	Read: 1.2, 1.2.1
