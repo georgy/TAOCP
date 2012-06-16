@@ -15,6 +15,7 @@ Notes:
 	   http://cs.stackexchange.com/questions/1666/please-explain-this-formal-definition-of-computation
 	- Compare Markov, Turing computational methods
 	- Work out other examples (similar to ex 7) using computational method form 1.1
+	- Start with recomended exercises (black arrow >).
 
 Week 2
 	Read: 1.2, 1.2.1
